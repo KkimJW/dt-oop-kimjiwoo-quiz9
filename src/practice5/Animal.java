@@ -5,3 +5,4 @@ public class Animal {
 		System.out.println("I am walking");
 	}
 }
+//edit test
